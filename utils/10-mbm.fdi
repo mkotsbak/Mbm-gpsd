@@ -3,7 +3,7 @@
 
  <!-- Devgiri devices -->
  <device>
-  <match key="info.parent" contains_outof="413c_8147;930_130b;bdb_1902;bdb_1900">
+  <match key="info.parent" contains_outof="413c_8147;930_130b;bdb_1902;bdb_1900;bdb_1911">
    <match key="info.parent" suffix="_if1">
     <append key="info.capabilities" type="strlist">mbm_nm</append>
 	<append key="modem.command_sets" type="strlist">GSM-07.07</append>
